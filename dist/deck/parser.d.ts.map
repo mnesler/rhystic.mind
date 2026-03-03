@@ -1,0 +1,1 @@
+{"version":3,"file":"parser.d.ts","sourceRoot":"","sources":["../../src/deck/parser.ts"],"names":[],"mappings":"AAiBA,OAAO,KAAK,EAAE,UAAU,EAAyB,MAAM,YAAY,CAAC;AA+DpE,MAAM,WAAW,WAAW;IAC1B,IAAI,EAAE,UAAU,CAAC;IACjB,QAAQ,EAAE,MAAM,EAAE,CAAC;CACpB;AAED,wBAAgB,aAAa,CAAC,IAAI,EAAE,MAAM,GAAG,WAAW,CA4DvD"}
